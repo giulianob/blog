@@ -1,0 +1,31 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               Giuliano Barberi
+tagline:             Blog
+description:         >
+    Software engineer. Game developer. Fitness enthusiast. Bob Ross wannabe.
+url:                 http://hyde.getpoole.com
+paginate:            5
+baseurl:             ""
+
+# Assets
+sass:
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Giuliano Barberi
+  url:               https://twitter.com/mdo
+  email:             giulianob123@gmail.com
+
+# Custom vars
+version:             2.1.0
+github:
+  repo:              https://github.com/giulianob
+
+# Gems
+gems:
+  - jekyll-paginate
+  - jekyll-gist
